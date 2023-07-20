@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d89797;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url(bg3.jpg);
+    background-size: cover;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: #e90039;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(227, 65, 65, 0.1);
+    background-image: url(bgg.jpg);
+    background-size: cover;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  #timer {
+    font-size: 36px;
+    font-weight: bold;
+    color: #f20a0a;
+  }
+  
